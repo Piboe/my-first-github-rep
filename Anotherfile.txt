@@ -1,2 +1,3 @@
 Just another file created modified
 This line was edited in BR-Feature2 branch
+Another modification
